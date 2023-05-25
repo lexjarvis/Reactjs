@@ -1,0 +1,17 @@
+/* Style your Tweet component using a CSS class */
+
+.tweet {
+    border: 0.5px solid black;
+    margin: 20px 20%;
+    padding: 10px;
+}
+
+.username {
+    color: black;
+    margin: 0 10px;
+}
+
+.date {
+    color: black;
+    margin: 0 10px;
+}
